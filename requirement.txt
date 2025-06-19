@@ -1,0 +1,16 @@
+# Rails API MCP Server Dependencies
+# Install with: pip install -r requirements.txt
+
+# MCP Framework
+mcp>=1.0.0
+fastmcp>=0.1.0
+
+# HTTP Requests
+requests>=2.31.0
+
+# Optional: Enhanced JSON handling
+# json5>=0.9.0  # Uncomment if you want more flexible JSON parsing
+
+# Development dependencies (optional)
+# pytest>=7.0.0  # Uncomment for testing
+# black>=22.0.0   # Uncomment for code formatting
