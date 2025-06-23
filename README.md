@@ -43,7 +43,7 @@ cd rails-api-mcp-server
 **Option B: Download Single File**
 ```bash
 # Download just the main server file
-wget https://raw.githubusercontent.com/jaypandya73/rails-api-postman-sync/main/rails_api_mcp_server.py
+wget https://raw.githubusercontent.com/jaypandya73/rails-api-postman-sync/main/rails_api_postman_sync.py
 ```
 
 ### 2. Install Dependencies
